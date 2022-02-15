@@ -1,0 +1,163 @@
+<?xml version="1.0" ?>
+<routes>
+	<vehicle id="0.0" depart="0.0" reroute="true">
+		<route edges="D0E0 E0E1 E1D1 D1D2 D2D3 D3C3 C3C4 C4B4 B4A4 A4A3 A3B3 B3B2 B2C2 C2D2 D2E2 E2E3 E3E4 E4D4 D4E4 E4E3 E3E2 E2D2 D2C2 C2B2 B2A2 A2B2 B2B3 B3A3 A3A2 A2A1 A1A0"/>
+		<stop parkingArea="plB2C2" duration="100"/>
+	</vehicle>
+	<vehicle id="1.0" depart="0.0" reroute="true">
+		<route edges="B2B3 B3C3 C3D3 D3D4 D4E4 E4E3 E3D3 D3D2 D2D1 D1C1 C1C2 C2C3 C3C2 C2B2 B2A2 A2A3 A3A4 A4B4 B4A4 A4A3 A3B3 B3B4 B4C4 C4D4 D4C4 C4C3 C3B3 B3A3 A3A2 A2A1 A1A2 A2B2 B2C2 C2C1 C1B1 B1A1 A1A0 A0B0 B0C0 C0D0 D0C0 C0C1 C1D1 D1D0 D0E0 E0E1 E1E2 E2E3 E3E4 E4D4 D4D3 D3C3 C3C4 C4B4 B4B3 B3B2 B2B1 B1C1 C1C0 C0B0 B0A0 A0A1 A1B1 B1B0"/>
+		<stop parkingArea="plD1D0" duration="100"/>
+	</vehicle>
+	<vehicle id="10.0" depart="0.0" reroute="true">
+		<route edges="D4C4 C4C3 C3B3 B3C3 C3D3 D3C3 C3C2 C2C1 C1D1 D1E1"/>
+		<stop parkingArea="plD4C4" duration="100"/>
+	</vehicle>
+	<vehicle id="11.0" depart="0.0" reroute="true">
+		<route edges="B3C3 C3B3 B3A3 A3B3 B3B2 B2B1 B1B0 B0C0 C0D0 D0D1 D1C1 C1C0 C0B0 B0A0 A0A1 A1A2 A2B2 B2A2 A2A3 A3A4 A4B4"/>
+		<stop parkingArea="plD0D1" duration="100"/>
+	</vehicle>
+	<vehicle id="12.0" depart="0.0" reroute="true">
+		<route edges="E3E2 E2E1 E1E0 E0D0 D0E0 E0E1 E1D1 D1C1 C1C0 C0D0 D0D1 D1E1 E1E2 E2D2 D2D1 D1D0 D0C0 C0B0 B0A0 A0A1 A1A0 A0B0 B0C0 C0C1 C1B1 B1A1 A1B1 B1B0 B0B1 B1B2 B2B3 B3B4"/>
+		<stop parkingArea="plD0D1" duration="100"/>
+	</vehicle>
+	<vehicle id="13.0" depart="0.0" reroute="true">
+		<route edges="A2B2"/>
+		<stop parkingArea="plA2B2" duration="100"/>
+	</vehicle>
+	<vehicle id="14.0" depart="0.0" reroute="true">
+		<route edges="E0D0 D0D1 D1C1 C1D1 D1D0 D0E0 E0E1 E1D1 D1D2 D2D1 D1E1 E1E2 E2E1 E1E0"/>
+		<stop parkingArea="plE2E1" duration="100"/>
+	</vehicle>
+	<vehicle id="15.0" depart="0.0" reroute="true">
+		<route edges="D4C4 C4D4 D4E4 E4E3 E3E4 E4D4 D4D3 D3C3 C3B3 B3A3 A3A2 A2B2 B2C2 C2C3 C3D3 D3E3 E3E2 E2E1 E1D1 D1D2 D2D3"/>
+		<stop parkingArea="plD3C3" duration="100"/>
+	</vehicle>
+	<vehicle id="16.0" depart="0.0" reroute="true">
+		<route edges="C3B3 B3A3 A3A4 A4B4 B4C4 C4C3 C3C4 C4B4 B4A4 A4A3 A3B3 B3B2 B2B3 B3B4 B4B3 B3C3 C3C2 C2D2 D2D1 D1E1 E1E2 E2D2 D2D3 D3D4 D4E4 E4E3 E3D3 D3D2 D2E2 E2E3 E3E2 E2E1 E1E0 E0D0 D0D1 D1C1 C1C2 C2B2 B2A2 A2A1 A1A2 A2A3 A3A2 A2B2 B2B1 B1A1 A1A0 A0B0 B0B1 B1C1 C1D1 D1D2 D2C2 C2C1 C1B1 B1B2 B2C2 C2C3 C3D3 D3E3 E3E4"/>
+		<stop parkingArea="plE4E3" duration="100"/>
+	</vehicle>
+	<vehicle id="17.0" depart="0.0" reroute="true">
+		<route edges="B4C4 C4B4 B4A4 A4A3 A3A2 A2A1 A1B1 B1C1 C1C2 C2C3 C3C4"/>
+		<stop parkingArea="plC4B4" duration="100"/>
+	</vehicle>
+	<vehicle id="18.0" depart="0.0" reroute="true">
+		<route edges="D4E4 E4E3 E3E2 E2E1 E1E0 E0D0 D0E0 E0E1 E1E2 E2E3 E3E4 E4D4 D4C4 C4D4 D4D3 D3E3 E3D3 D3D2 D2E2 E2D2 D2C2 C2D2 D2D3 D3C3 C3C2 C2B2 B2B1 B1B0 B0C0 C0D0 D0D1 D1C1 C1C0 C0C1 C1D1 D1D2 D2D1 D1D0 D0C0"/>
+		<stop parkingArea="plC0C1" duration="100"/>
+	</vehicle>
+	<vehicle id="19.0" depart="0.0" reroute="true">
+		<route edges="E0E1 E1E0 E0D0 D0C0 C0B0 B0A0 A0A1 A1A0 A0B0 B0B1 B1C1 C1D1 D1C1 C1C0 C0D0 D0E0"/>
+		<stop parkingArea="plB1C1" duration="100"/>
+	</vehicle>
+	<vehicle id="2.0" depart="0.0" reroute="true">
+		<route edges="D2D3 D3D2 D2D1 D1C1 C1D1 D1D2"/>
+		<stop parkingArea="plD1D2" duration="100"/>
+	</vehicle>
+	<vehicle id="20.0" depart="0.0" reroute="true">
+		<route edges="D2C2 C2C3 C3D3 D3D2 D2D1 D1C1 C1B1 B1B0 B0C0 C0B0 B0B1 B1A1 A1B1 B1B2 B2B3 B3A3 A3A2 A2A3 A3B3 B3C3 C3C4 C4D4 D4D3 D3C3 C3B3 B3B2 B2B1 B1C1 C1C2 C2D2 D2D3 D3D4 D4E4 E4E3 E3E2 E2E3 E3E4 E4D4 D4C4 C4B4 B4C4 C4C3 C3C2 C2C1 C1D1 D1E1 E1E2 E2D2 D2E2 E2E1 E1E0 E0D0 D0C0 C0D0 D0E0 E0E1 E1D1 D1D2"/>
+		<stop parkingArea="plD3D4" duration="100"/>
+	</vehicle>
+	<vehicle id="21.0" depart="0.0" reroute="true">
+		<route edges="B1B2 B2C2"/>
+		<stop parkingArea="plB1B2" duration="100"/>
+	</vehicle>
+	<vehicle id="22.0" depart="0.0" reroute="true">
+		<route edges="A2A3 A3A4 A4B4 B4B3 B3A3 A3A2 A2B2 B2A2 A2A1 A1B1 B1B2"/>
+		<stop parkingArea="plA1B1" duration="100"/>
+	</vehicle>
+	<vehicle id="23.0" depart="0.0" reroute="true">
+		<route edges="A3A2 A2B2 B2B1 B1C1 C1C2 C2C3 C3C4 C4B4 B4B3 B3B2 B2A2 A2A1 A1B1 B1A1 A1A2 A2A3 A3B3 B3A3 A3A4 A4B4 B4C4 C4C3 C3B3 B3B4 B4A4 A4A3"/>
+		<stop parkingArea="plA1B1" duration="100"/>
+	</vehicle>
+	<vehicle id="24.0" depart="0.0" reroute="true">
+		<route edges="D0D1 D1D0 D0C0 C0C1 C1C2 C2C1 C1D1 D1C1 C1B1 B1B0 B0C0 C0B0 B0A0 A0A1 A1A2 A2A1 A1B1 B1A1 A1A0 A0B0 B0B1 B1B2 B2B3 B3B2 B2A2 A2A3 A3A4 A4B4 B4C4 C4D4 D4D3 D3E3 E3E4 E4D4 D4C4 C4C3 C3C4 C4B4 B4B3"/>
+		<stop parkingArea="plC4C3" duration="100"/>
+	</vehicle>
+	<vehicle id="25.0" depart="0.0" reroute="true">
+		<route edges="B4B3 B3B2 B2A2 A2A3 A3A2 A2B2 B2C2 C2D2 D2D3 D3D4 D4E4 E4E3 E3E2 E2E1 E1E0 E0D0 D0C0 C0B0 B0A0 A0A1 A1A0 A0B0 B0C0 C0D0 D0D1 D1D0 D0E0 E0E1 E1D1 D1E1 E1E2 E2D2 D2E2 E2E3 E3D3 D3D2 D2C2 C2C1 C1B1 B1B0 B0B1 B1A1"/>
+		<stop parkingArea="plC2C1" duration="100"/>
+	</vehicle>
+	<vehicle id="26.0" depart="0.0" reroute="true">
+		<route edges="B2B1 B1A1 A1B1 B1B2 B2A2 A2A3 A3A4 A4B4 B4C4 C4B4 B4A4 A4A3 A3A2 A2A1 A1A2 A2B2 B2B3 B3A3 A3B3 B3C3 C3C2 C2C1 C1D1 D1E1 E1E0 E0D0 D0D1 D1C1 C1B1 B1C1 C1C0 C0B0 B0A0 A0A1 A1A0 A0B0 B0B1 B1B0 B0C0 C0D0 D0C0 C0C1 C1C2 C2D2 D2E2 E2D2 D2D3 D3D4 D4C4 C4D4 D4D3 D3D2 D2D1 D1D2 D2C2 C2C3 C3C4 C4C3 C3B3 B3B4 B4B3 B3B2 B2C2 C2B2"/>
+		<stop parkingArea="plD2D3" duration="100"/>
+	</vehicle>
+	<vehicle id="27.0" depart="0.0" reroute="true">
+		<route edges="D0E0 E0E1 E1D1 D1E1 E1E2 E2D2 D2E2 E2E3 E3D3 D3C3 C3B3 B3A3 A3A2 A2B2 B2B1 B1C1 C1B1 B1A1 A1A0 A0B0 B0B1 B1B2 B2A2 A2A1 A1A2 A2A3 A3B3 B3C3 C3D3 D3D4 D4E4 E4E3 E3E2 E2E1 E1E0 E0D0 D0C0 C0D0 D0D1 D1D0"/>
+		<stop parkingArea="plA1A0" duration="100"/>
+	</vehicle>
+	<vehicle id="28.0" depart="0.0" reroute="true">
+		<route edges="B0A0 A0A1 A1A2 A2A3 A3A2 A2B2 B2A2 A2A1 A1B1 B1B0 B0C0 C0D0 D0C0 C0C1 C1D1 D1D2 D2D3"/>
+		<stop parkingArea="plC0C1" duration="100"/>
+	</vehicle>
+	<vehicle id="29.0" depart="0.0" reroute="true">
+		<route edges="B0A0 A0A1 A1A2 A2A3 A3B3 B3C3 C3C4 C4C3 C3D3 D3D2 D2E2 E2E1 E1D1 D1E1 E1E2 E2D2 D2D1 D1D0 D0D1 D1D2 D2D3 D3C3 C3C2 C2B2 B2B1 B1B0 B0C0 C0B0 B0B1 B1B2 B2A2 A2B2 B2C2 C2C3 C3B3 B3B4 B4B3 B3B2 B2B3 B3A3 A3A2 A2A1 A1A0 A0B0"/>
+		<stop parkingArea="plB3B2" duration="100"/>
+	</vehicle>
+	<vehicle id="3.0" depart="0.0" reroute="true">
+		<route edges="E1E2 E2E1 E1E0 E0D0 D0E0 E0E1 E1D1 D1D2 D2D3 D3D4 D4E4 E4E3 E3E2 E2D2 D2E2 E2E3 E3D3 D3E3 E3E4 E4D4 D4D3 D3D2 D2C2 C2C1 C1C0 C0D0 D0D1 D1E1"/>
+		<stop parkingArea="plD3D2" duration="100"/>
+	</vehicle>
+	<vehicle id="30.0" depart="0.0" reroute="true">
+		<route edges="E4E3 E3E2 E2D2 D2D1 D1D0 D0C0 C0C1 C1B1 B1B2 B2B3 B3B4 B4A4 A4A3 A3B3 B3A3 A3A2 A2B2 B2C2 C2D2 D2E2 E2E1 E1E0 E0D0 D0D1 D1C1 C1C0 C0D0 D0E0"/>
+		<stop parkingArea="plD0E0" duration="100"/>
+	</vehicle>
+	<vehicle id="31.0" depart="0.0" reroute="true">
+		<route edges="C3C4 C4C3 C3B3 B3B4 B4A4 A4A3 A3B3 B3C3 C3C2 C2B2 B2B1 B1B0 B0B1 B1C1 C1D1 D1E1 E1D1 D1C1 C1B1 B1A1 A1A2 A2A3 A3A2 A2A1 A1B1 B1B2 B2C2 C2C1 C1C2 C2C3 C3D3 D3E3 E3E2 E2D2 D2C2 C2D2 D2D1 D1D0 D0C0 C0D0 D0D1 D1D2"/>
+		<stop parkingArea="plD1C1" duration="100"/>
+	</vehicle>
+	<vehicle id="32.0" depart="0.0" reroute="true">
+		<route edges="E0D0 D0C0 C0B0 B0A0 A0A1 A1B1 B1C1 C1C0 C0D0 D0D1 D1D0 D0E0 E0E1 E1D1 D1E1 E1E2 E2D2 D2C2 C2B2 B2A2 A2A1 A1A2 A2B2 B2B3 B3C3 C3D3 D3D4"/>
+		<stop parkingArea="plA1A2" duration="100"/>
+	</vehicle>
+	<vehicle id="33.0" depart="0.0" reroute="true">
+		<route edges="B1B2 B2A2 A2B2 B2B1 B1C1 C1D1 D1E1 E1E2 E2D2 D2E2 E2E3 E3E4 E4D4 D4D3 D3E3 E3E2 E2E1 E1D1 D1C1 C1B1 B1A1 A1B1 B1B0 B0A0 A0A1 A1A2 A2A1 A1A0"/>
+		<stop parkingArea="plB1A1" duration="100"/>
+	</vehicle>
+	<vehicle id="34.0" depart="0.0" reroute="true">
+		<route edges="B3B2 B2B1"/>
+		<stop parkingArea="plB3B2" duration="100"/>
+	</vehicle>
+	<vehicle id="35.0" depart="0.0" reroute="true">
+		<route edges="B1A1 A1A0 A0B0 B0A0 A0A1 A1B1 B1B0 B0C0 C0C1 C1D1 D1E1 E1E2 E2E1 E1E0 E0D0 D0C0 C0B0 B0B1 B1B2 B2C2 C2C3 C3C4 C4D4 D4C4 C4B4 B4B3 B3C3 C3C2 C2B2 B2B3 B3A3 A3A2 A2B2 B2A2 A2A1 A1A2 A2A3 A3A4 A4B4 B4C4 C4C3 C3D3 D3D4 D4E4 E4E3 E3E2 E2E3 E3D3"/>
+		<stop parkingArea="plE1E2" duration="100"/>
+	</vehicle>
+	<vehicle id="36.0" depart="0.0" reroute="true">
+		<route edges="E1E0 E0D0 D0C0 C0B0 B0A0 A0A1 A1A2 A2A3 A3B3 B3B4 B4C4 C4D4 D4E4 E4E3 E3E2 E2D2 D2D1 D1D2 D2D3 D3D4 D4C4 C4C3 C3D3 D3D2 D2C2 C2C1 C1C2 C2D2 D2E2 E2E3 E3D3 D3C3 C3C2 C2B2 B2C2 C2C3 C3B3 B3A3 A3A2 A2B2 B2B3 B3C3 C3C4 C4B4 B4B3 B3B2"/>
+		<stop parkingArea="plC2C3" duration="100"/>
+	</vehicle>
+	<vehicle id="37.0" depart="0.0" reroute="true">
+		<route edges="D1C1 C1C0 C0B0"/>
+		<stop parkingArea="plC0B0" duration="100"/>
+	</vehicle>
+	<vehicle id="38.0" depart="0.0" reroute="true">
+		<route edges="E2E1 E1E0 E0D0 D0C0 C0B0 B0A0 A0A1 A1A2 A2A3 A3A4 A4B4 B4A4 A4A3 A3B3 B3B2 B2B1 B1A1 A1A0 A0B0 B0B1 B1B2 B2A2 A2A1 A1B1 B1C1 C1C2"/>
+		<stop parkingArea="plC1C2" duration="100"/>
+	</vehicle>
+	<vehicle id="39.0" depart="0.0" reroute="true">
+		<route edges="B2B1 B1C1"/>
+		<stop parkingArea="plB2B1" duration="100"/>
+	</vehicle>
+	<vehicle id="4.0" depart="0.0" reroute="true">
+		<route edges="C0D0 D0D1 D1D2 D2D3 D3C3 C3C4 C4C3 C3D3 D3D4 D4E4 E4E3 E3D3 D3D2 D2E2 E2E1 E1D1 D1C1 C1C0 C0B0 B0A0 A0A1 A1A0"/>
+		<stop parkingArea="plE3D3" duration="100"/>
+	</vehicle>
+	<vehicle id="5.0" depart="0.0" reroute="true">
+		<route edges="B1B0 B0C0 C0B0 B0A0 A0A1 A1A2 A2A1 A1B1 B1C1 C1D1 D1D2 D2D3 D3C3 C3D3 D3D4 D4E4 E4E3 E3E2 E2D2 D2E2 E2E1 E1E0 E0D0 D0C0 C0C1 C1B1 B1A1 A1A0 A0B0 B0B1 B1B2 B2B3 B3B2 B2A2 A2A3 A3A2 A2B2 B2C2 C2C3"/>
+		<stop parkingArea="plC2C3" duration="100"/>
+	</vehicle>
+	<vehicle id="6.0" depart="0.0" reroute="true">
+		<route edges="A1A0 A0B0 B0B1 B1C1 C1C0 C0C1 C1D1 D1D0 D0E0 E0E1 E1E2 E2D2 D2D1 D1E1 E1E0 E0D0 D0C0 C0D0 D0D1 D1D2 D2E2 E2E3 E3E4 E4D4 D4D3 D3C3 C3C2 C2B2 B2C2 C2D2 D2D3 D3D4 D4E4 E4E3 E3E2 E2E1 E1D1 D1C1 C1B1 B1B2 B2A2 A2A3 A3B3 B3C3 C3C4 C4B4 B4B3 B3B4 B4A4 A4A3 A3A2 A2B2 B2B1 B1B0 B0A0 A0A1 A1B1 B1A1 A1A2 A2A1"/>
+		<stop parkingArea="plD1C1" duration="100"/>
+	</vehicle>
+	<vehicle id="7.0" depart="0.0" reroute="true">
+		<route edges="D0E0 E0E1 E1E0 E0D0 D0D1 D1D2 D2D1 D1E1 E1E2 E2D2 D2D3 D3C3 C3C2"/>
+		<stop parkingArea="plD1E1" duration="100"/>
+	</vehicle>
+	<vehicle id="8.0" depart="0.0" reroute="true">
+		<route edges="B1B0 B0C0 C0C1 C1C2 C2B2 B2B1 B1C1 C1D1 D1D2 D2C2 C2D2 D2D3 D3E3 E3D3 D3C3 C3B3 B3B2 B2A2 A2A1 A1A2 A2A3 A3A4 A4B4 B4B3 B3B4 B4A4 A4A3 A3A2 A2B2 B2B3 B3C3 C3D3 D3D2 D2D1 D1D0 D0E0 E0E1 E1E2 E2E1 E1E0 E0D0 D0C0 C0D0 D0D1 D1E1 E1D1 D1C1 C1C0 C0B0 B0A0 A0A1 A1A0 A0B0 B0B1 B1A1 A1B1 B1B2 B2C2 C2C1 C1B1"/>
+		<stop parkingArea="plB2C2" duration="100"/>
+	</vehicle>
+	<vehicle id="9.0" depart="0.0" reroute="true">
+		<route edges="D4C4 C4D4 D4E4 E4E3 E3E2 E2E3 E3D3 D3D4 D4D3 D3E3 E3E4 E4D4"/>
+		<stop parkingArea="plE3E2" duration="100"/>
+	</vehicle>
+</routes>

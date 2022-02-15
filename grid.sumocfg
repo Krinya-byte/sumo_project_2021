@@ -1,0 +1,14 @@
+<configuration>
+    <input>
+        <net-file value="grid.net.xml"/>
+        <route-files value="grid.parking_routes.rou.xml"/>
+        <additional-files value="parkinglots.xml,induction.loops.xml"/>
+    </input>
+    <time>
+        <begin value="0"/>
+        <end value="10000"/>
+    </time>
+    <output>
+        <fcd-output value="grid.output.xml"/>
+    </output>
+</configuration>

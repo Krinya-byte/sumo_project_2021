@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generated on 2021-12-13 23:41:25.369681 by generateParkingAreas.py v1_11_0+0535-bb7d9631987
+<configuration>
+    <length value="4.0"/>
+    <net-file value="grid.net.xml"/>
+    <prefix value="pl"/>
+    <random-capacity value="True"/>
+    <space-length value="2.0"/>
+</configuration>
+
+-->
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <parkingArea id="plA1A0" lane="A1A0_0" roadsideCapacity="2" length="2.0"/>
+    <parkingArea id="plB0B1" lane="B0B1_0" roadsideCapacity="1" length="2.0"/>
+    <parkingArea id="plB1B0" lane="B1B0_0" roadsideCapacity="1" length="2.0"/>
+</additional>
